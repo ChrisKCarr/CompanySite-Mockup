@@ -4,4 +4,4 @@ A pure HTML/CSS project utilizing some Javascript to solidify modern webdesign b
 
 ![Page Overview](images/CompanyDesignSite.png)
 
-[Foods Web-Mockup](chriskcarr.github.io/CompanySite-Mockup/)
+[Company Design Mockup](chriskcarr.github.io/CompanySite-Mockup/)
